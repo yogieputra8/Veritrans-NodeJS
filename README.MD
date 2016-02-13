@@ -1,7 +1,8 @@
 # Simple Test Notification Callback from Veritrans - NodeJS
-
 This is simple project built from NodeJS to test Notification Callback from Veritrans.
 
+# About veritrans
+Payment Gateway Solution for eCommerce merchants in Indonesia to send and receive online payment with credit/debit card, internet and mobile banking.
 
 ## Usage
 1. `node app.js` <br />
