@@ -1,3 +1,5 @@
+// This is simple NodeJS App to test Veritrans notif callback
+
 var http = require('http');
 var querystring = require('querystring');
 
