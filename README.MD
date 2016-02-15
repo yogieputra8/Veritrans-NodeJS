@@ -1,4 +1,4 @@
-## Simple Test Notification Callback from Veritrans - NodeJS
+## Veritrans Sample Projects - NodeJS
 This is simple project with NodeJS to test make a transaction with Veritrans.  <br />
 Projects consists of:<br />
 1. chargeTransaction.js to charge the user and send the OrderID and the Amount to VT-Web <br />
